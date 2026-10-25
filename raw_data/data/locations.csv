@@ -1,0 +1,11 @@
+location_id,city,state,region
+LOC001,Lagos,Lagos,South West
+LOC002,Abuja,FCT,North Central
+LOC003,Ibadan,Oyo,South West
+LOC004,Port Harcourt,Rivers,South South
+LOC005,Benin City,Edo,South South
+LOC006,Enugu,Enugu,South East
+LOC007,Kano,Kano,North West
+LOC008,Kaduna,Kaduna,North West
+LOC009,Ilorin,Kwara,North Central
+LOC010,Abeokuta,Ogun,South West

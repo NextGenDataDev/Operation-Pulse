@@ -1,0 +1,6 @@
+channel_id,channel_name,channel_type
+CH01,Mobile App,Digital
+CH02,USSD,Digital
+CH03,Web,Digital
+CH04,POS,Physical Agent
+CH05,Agent,Physical Agent

@@ -1,0 +1,9 @@
+service_id,service_name,service_category,service_status
+SVC01,Bank Transfer,Transfers,Active
+SVC02,Electricity Bill Payment,Bill Payments,Active
+SVC03,Airtime Top-up,Airtime/Data,Active
+SVC04,Data Bundle Purchase,Airtime/Data,Active
+SVC05,Merchant Payment,Merchant Payments,Active
+SVC06,Card Payment,Card Payments,Active
+SVC07,Cash Withdrawal,Withdrawals,Active
+SVC08,TV Subscription Payment,Bill Payments,Active
